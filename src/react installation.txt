@@ -1,0 +1,8 @@
+1.Install node js
+2.Check node --version
+3.Check npm --version
+4.Open vs code & install simple react snippets by extensions
+5.Add React Developer Tools extensions in chrome  -- If needed install prettier in vs
+6.Add es7 react -redux in vs extensions
+7.npx create-react-app web_app
+8.npm start

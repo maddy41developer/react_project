@@ -1,0 +1,34 @@
+{
+  "datas": [
+    {
+      "name": "madhavan",
+      "email": "madhavans0207@gmail.com",
+      "password": "m@ddysakthi64",
+      "id": "1"
+    },
+    {
+      "id": "ab13",
+      "name": "arjun",
+      "email": "arjun12@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "a594",
+      "name": "Raja",
+      "email": "raja@gmail.com",
+      "password": "789456"
+    },
+    {
+      "id": "29ea",
+      "name": "Guru",
+      "email": "guru@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "6c0a",
+      "name": "Vikram",
+      "email": "vikram@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
